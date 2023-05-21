@@ -2,7 +2,8 @@
 Portifolio pessoal 
 
 
-![image](https://github.com/iamalissontomazelli/Portifolio-website-dev/assets/105504791/f776ba7c-7ea8-4fe2-aac9-b80d8055d9e1)
+![image](https://github.com/iamalissontomazelli/Portifolio-website-dev/assets/105504791/fb1c7d38-bdb8-481a-9468-3a34ff80f4ce)
+
 
 
 
